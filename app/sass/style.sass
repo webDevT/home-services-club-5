@@ -1,0 +1,235 @@
+@import "vars"
+@import "fonts"
+
+
+//start global style
+body 
+	font-family: $main-font
+	font-weight: 500
+	color: $text-color
+	font-size: 20px
+a,
+a:hover 
+	text-decoration: none
+.container-fluid 
+	width: 1140px 
+	padding-right: 0
+	padding-left: 0
+	max-width: 92vw
+.button 
+	height: 62px
+	width: 240px 
+	border-radius: 31px
+	background: #282F3A
+	display: flex 
+	justify-content: center 
+	align-items: center
+	color: #fff
+	cursor: pointer
+	//box-shadow: 0.838px 23.985px 81.34px 1.66px rgba(57, 20, 38, 0.51)
+	font-size: 26px
+.button:hover 
+	color: #fff
+.button--center 
+	margin: 0 auto
+.h1 
+	font-size: 70px 
+	font-weight: 500
+	color: $title-color 
+	line-height: 0.95
+	margin-bottom: 0
+.h2 
+	font-size: 44px 
+	color: #D72126
+	font-weight: 500
+.h3 
+	font-size: 26px
+	font-weight: 500
+	color: $title-color
+//end global style 
+
+//start header style 
+.header 
+	padding: 30px 0
+	position: absolute 
+	top: 0
+	left: 0
+	width: 100%
+	.container-fluid 
+		display: flex 
+		justify-content: space-between
+		align-items: center
+.call-button
+	height: 60px
+	width: 290px
+	font-size: 22px
+	span 
+		font-size: 19px
+		padding-right: 9px
+//end header style
+
+//start main screen style
+.main-screen 
+	padding-top: 180px 
+	padding-bottom: 28vw
+	background-color: #E5E5E5
+	background-image: url('../img/header-bg.svg')
+	background-repeat: no-repeat 
+	background-size: 100%
+	background-position: bottom center
+.main-screen__sub-title
+	padding-top: 30px
+	padding-bottom: 30px
+	font-size: 24px 
+	text-transform: uppercase
+	color: #979CA2
+//end main screen style
+
+//start get-quote section style
+.get-quote
+	padding: 100px 0
+
+	p 
+		margin-bottom: 20px
+	.h2 
+		margin-bottom: 20px
+.get-quote__img
+	max-width: 100%
+.get-quote__content
+	padding-left: 35px
+//end get quote section style
+
+//start car insurance style
+.car-insurance
+	padding-top: 30px 
+	padding-bottom: 100px
+	background-repeat: no-repeat 
+	background-size: 100% 
+	background-position: bottom -6vw left
+.car-insurance__sub-title
+	font-weight: 700
+	margin-bottom: 40px
+.car-insurance__list 
+	width: 858px 
+	max-width: 100%
+	margin: 0 auto
+.car-insurance__item
+	display: flex
+	align-items: center
+	justify-content: space-between
+	width: 100%
+	margin-bottom: 45px
+.car-insurance__icon-wrapper
+	width: 120px 
+	height: 120px 
+	background: url('../img/icon1.svg')
+	background-size: 85% 
+	background-position: center 
+	background-repeat: no-repeat
+	display: flex 
+	justify-content: center 
+	align-items: center
+
+	img 
+		max-width: 45%
+.car-insurance__icon-wrapper-content
+	display: flex 
+	justify-content: center
+	padding-bottom: 20px
+.car-insurance__text
+	font-size: 14px
+.car-insurance__link
+	font-size: 20px 
+	font-weight: 700 
+	color: #fff
+.car-insurance__link:hover
+	color: $text-color
+.car-insurance__item--right
+	.car-insurance__icon-wrapper-content
+		padding-right: 0 
+.car-insurance__item-content
+	text-align: center
+//end car insurance style
+
+//start footer style 
+.footer 
+	background: #E5E5E5
+	background-size: cover 
+	background-position: center
+	padding-top: 80px 
+	padding-bottom: 25px
+	color: $title-color
+.footer-logo
+	margin-bottom: 50px
+.footer__link
+	font-size: 18.23px 
+	display: block 
+	color: $title-color
+	margin-bottom: 18px
+.footer__link:hover 
+	color: $title-color
+.footer__form-text
+	font-size: 15px
+	margin-bottom: 10px
+.footer__form
+	width: 100% 
+	height: 57px
+	border-radius: 10px 
+	overflow: hidden
+	display: flex
+	background: #fff
+.input 
+	width: 100% 
+	background: #fff 
+	border: none 
+	height: 100%
+	padding: 0 24px	
+	outline: none
+	font-size: 18px
+.input:placeholder 
+	color: rgba(42, 42, 42, 0.322)
+.input:focus::placeholder 
+	color: transparent
+.input-submit
+	width: 168px 
+	border-radius: 10px
+	outline: none
+	border: none
+	background: #D72126
+	font-size: 15px 
+	color: #fff
+.footer__social-link
+	display: block
+	margin-right: 35px
+	img 
+		width: 37px
+.footer__social
+	padding-top: 30px
+	padding-left: 24px
+	display: flex
+.footer__copy
+	font-size: 16px
+	padding-top: 20px
+.car-insurance
+	.col-md-4:first-child 
+		transform: translateY(70px)
+	.col-md-4:nth-child(3)
+		transform: translateY(70px)
+		.car-insurance__icon-wrapper
+			background: url('../img/icon3.svg')
+			background-size: 85%
+			background-position: center
+			background-repeat: no-repeat
+	.col-md-4:nth-child(2)
+		.car-insurance__icon-wrapper
+			background: url('../img/icon2.svg')
+			background-size: 85%
+			background-position: center
+			background-repeat: no-repeat
+
+//end footer style 
+
+@import "media"
+
+
+

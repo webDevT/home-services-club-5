@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="260" height="73" viewBox="0 0 260 73">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="260" height="73" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="logo-footer" transform="translate(-390 -2950)">
+    <g id="Vector_Smart_Object" data-name="Vector Smart Object" transform="translate(390 2950)">
+      <g id="Group_2" data-name="Group 2">
+        <g id="Group_1" data-name="Group 1" clip-path="url(#clip-path)">
+          <path id="Path_1" data-name="Path 1" d="M61.041,73H43.129a1.394,1.394,0,0,1-1.394-1.395V53.679a1.394,1.394,0,0,1,1.394-1.395H61.041a1.394,1.394,0,0,1,1.394,1.395V71.605A1.394,1.394,0,0,1,61.041,73" fill="#282F3A"/>
+          <path id="Path_2" data-name="Path 2" d="M35.811,47.054H17.9A1.4,1.4,0,0,1,16.5,45.659V27.734a1.4,1.4,0,0,1,1.394-1.4H35.811a1.394,1.394,0,0,1,1.394,1.4V45.659a1.394,1.394,0,0,1-1.394,1.395" fill="#282F3A"/>
+          <path id="Path_3" data-name="Path 3" d="M61.041,47.054H43.129a1.394,1.394,0,0,1-1.394-1.395V27.734a1.394,1.394,0,0,1,1.394-1.4H61.041a1.394,1.394,0,0,1,1.394,1.4V45.659a1.394,1.394,0,0,1-1.394,1.395" fill="#282F3A"/>
+          <path id="Path_4" data-name="Path 4" d="M35.811,73H17.9A1.4,1.4,0,0,1,16.5,71.605V53.679A1.4,1.4,0,0,1,17.9,52.285H35.811A1.394,1.394,0,0,1,37.2,53.679V71.605A1.394,1.394,0,0,1,35.811,73" fill="#282F3A"/>
+          <path id="Path_5" data-name="Path 5" d="M9.942,36.638c-3.3,0-8.506-.512-9.7-3.615s2.341-6,3.5-6.956C12.914,18.5,33.081,2.8,34.355,1.808a7.021,7.021,0,0,1,9.379-.01c2.312,1.917,7.281,5.669,10.533,8.1V6.89h3.862V17.582L55.049,15.3c-.412-.3-10.122-7.495-13.78-10.528A3.145,3.145,0,0,0,36.9,4.713l-.118.1c-.211.164-21.206,16.5-30.589,24.238-1.872,1.544-2.243,2.368-2.315,2.608.7.706,4.193,1.225,7.376,1.084l.177,3.861c-.423.019-.931.034-1.494.034" fill="#282F3A"/>
+          <path id="Path_6" data-name="Path 6" d="M72.631,36.624H67.593V32.759h5.018a5.715,5.715,0,0,0,1.317-.134c-.393-1.639-4.541-6.1-9.1-9.725l-.73-.58V6.861h3.862v13.6c4.5,3.666,11,9.778,9.67,13.593-.6,1.706-2.277,2.571-5,2.571" fill="#282F3A"/>
+          <text id="The_Home" data-name="The Home" transform="translate(85.503 25.343)" fill="#282F3A" font-size="25" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">T</tspan><tspan y="0" letter-spacing="0.004em">h</tspan><tspan y="0">e Ho</tspan><tspan y="0" letter-spacing="0.005em">m</tspan><tspan y="0">e</tspan></text>
+          <text id="Services_Club" data-name="Services Club" transform="translate(85.503 52.38)" fill="#282F3A" font-size="25" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Se</tspan><tspan y="0" letter-spacing="0.014em">r</tspan><tspan y="0">vi</tspan><tspan y="0" letter-spacing="-0.007em">c</tspan><tspan y="0">es Club</tspan></text>
+        </g>
+      </g>
+      <text id="No_Worries_Just_Services." data-name="No Worries, Just Services." transform="translate(89.033 69.107)" fill="#282F3A" font-size="11" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">No </tspan><tspan y="0" letter-spacing="-0.054em">W</tspan><tspan y="0">o</tspan><tspan y="0" letter-spacing="-0.007em">rr</tspan><tspan y="0">ies, Just Se</tspan><tspan y="0" letter-spacing="0.015em">r</tspan><tspan y="0">vi</tspan><tspan y="0" letter-spacing="-0.008em">c</tspan><tspan y="0">es.</tspan></text>
+    </g>
+  </g>
+</svg>
